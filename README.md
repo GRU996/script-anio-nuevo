@@ -1,4 +1,4 @@
-# script-anio-nuevo
+# script-año-nuevo
 
 ## REQUISITOS: 
 
